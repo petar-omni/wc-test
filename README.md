@@ -1,5 +1,3 @@
-Testing video in `assets/`
-
 ## Install
 
 ```
